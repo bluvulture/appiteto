@@ -1,4 +1,4 @@
-# Appiteto - API Testing Tool 👌
+# AppiTeTo - API Testing Tool 👌
 ## Requirements 
 ``` Node.js 16.* && npm 8.*```
 ## Install  
