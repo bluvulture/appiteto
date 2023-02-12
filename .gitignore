@@ -1,0 +1,7 @@
+*node_modules/*
+.env
+.bash_profile
+mochawesome-report
+.vscode
+.DS_store
+.idea
