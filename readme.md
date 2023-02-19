@@ -6,7 +6,7 @@
 ## This is a modular, extensible API testing framework built with TypeScript
 ## Features
 - Lightweight
-- Uses battle proffed tools like Mocha
+- Uses battle proffed and familiar tools like Mocha and Chai
 - Supports multiple projects with different API host urls and environments
 - Easily configurable via a simple configuration file
 - Provides custom HTTP request and response classes to easily handle requests and responses
