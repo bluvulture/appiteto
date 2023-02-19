@@ -7,7 +7,7 @@
 ## Features
 - Lightweight
 - Uses battle proffed tools like Mocha and Jest
-- Supports multiple API endpoints and environments
+- Supports multiple projects with different API host urls and environments
 - Easily configurable via a simple configuration file
 - Provides custom HTTP request and response classes to easily handle requests and responses
 - Allows for easy extension of the framework through custom classes
