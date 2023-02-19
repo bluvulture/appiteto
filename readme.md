@@ -18,3 +18,5 @@
 ##### To configure it, add your enviroment config file keeping the format like in ``` envConfig.ts ```
 ##### Write the first tests, properly tag them with tags ie. ```@test``` and hit the run script
 ##### You can customise ```package.json``` to add your own running script
+
+## Enjoy 👋
