@@ -19,4 +19,6 @@
 ##### Write the first tests, properly tag them with tags ie. ```@test``` and hit the run script
 ##### You can customise ```package.json``` to add your own running script
 
+## Thanks to [@vitorworks](https://github.com/vitorworks) for helping out 
+
 ## Enjoy 👋
